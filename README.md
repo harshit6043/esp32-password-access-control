@@ -90,5 +90,4 @@ Make sure you have the following libraries installed in your **Arduino IDE** (vi
 
 ---
 
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
+
